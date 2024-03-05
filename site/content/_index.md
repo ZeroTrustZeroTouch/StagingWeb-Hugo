@@ -16,7 +16,7 @@ intro:
   text: "Zero Trust Zero Touch offers many services broadly broken down into:
     Implementations, Migrations, Modernization, and Consulting and Fractional
     Services"
-products:
+services:
   - image: img/illustrations-coffee.svg
     text: >-
       Implementations:
