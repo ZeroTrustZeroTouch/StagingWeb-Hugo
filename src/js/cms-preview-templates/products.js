@@ -51,16 +51,6 @@ const ProductsPreview = ({ entry, collection, field }) => {
         </div>
       </div>
 
-      <div className="pb4">
-        {(entry.data.testimonials ?? []).map((testimonial, index) => (
-          <div className="center mb3 ph3" key={index}>
-            <blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
-              <p className="f4 mb0">“{testimonial.quote}”</p>
-              <cite className="tr db grey-3">{testimonial.author}</cite>
-            </blockquote>
-          </div>
-        ))}
-      </div>
 
       <img src={fullImage} alt="" className="db w-100" />
 
