@@ -2,7 +2,7 @@
 title: Values
 image: /img/20210426_174133.webp
 values:
-  - heading: Human-Centri
+  - heading: Human-Centric
     text: After many years of working in IT, I've recognized that at the end of the
       day all clients and service providers are Human. Being Human may sound
       like its a given, but over the years I've observed that so many offerings
