@@ -2,7 +2,7 @@
 title: My Services
 type: products
 image: /img/products-jumbotron.jpg
-heading: Offerings
+heading: Offering
 description: "Zero Trust Zero Touch offers a wide variety of services generally
   broken into the following categories: Implementations, Migrations,
   Modernization, and Consultations."
