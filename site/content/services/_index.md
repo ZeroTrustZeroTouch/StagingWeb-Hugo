@@ -1,55 +1,26 @@
 ---
-title: Our Coffee
+title: My Services
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Offerings
+description: "Zero Trust Zero Touch offers a wide variety of services generally
+  broken into the following categories: Implementations, Migrations,
+  Modernization, and Consultations."
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/products-full-width.jpg
+      text: >-
+        Why these four services?
+
+        Because most I've found SKU creep to anathema to keeping things simple, you don't need a Business Analyst to review coffee options, why should you need them to review IT offerings.
+  heading: Offerings
+  description: "Zero Trust Zero Touch offers a wide variety of services generally
+    broken into the following categories: Implementations, Migrations,
+    Modernization, and Consultations."
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: À la carte offerings
+  description: Implementations, Migrations, Modernization, and Consultations. Mix
+    and Match or even combine offerings if that's what you need, just ask.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -59,35 +30,53 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+testimonials:
+  - quote: I cant believe its not coffee
+    author: Tea
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Services
+  description: In keeping with the Human-Centric model all our services are clearly listed
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Implimentations are on a sliding scale, with simple and straight
+        forward services with little research required starting at $100/hour,
+        and more complex offerings moving up from there.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - New Cloud services
+        - New physical locations
+        - New Network Appliances
+        - New Software and associated servers
+      plan: Implimentations
+      price: 100-200/hour
+    - description: Migrations are on a sliding scale, with simple and straight forward
+        services with little research required starting at $100/hour, and more
+        complex offerings moving up from there.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - File Server Migration and Consolidation
+        - Domain Controller Upgrades
+        - Cloud Migrations
+        - Physical Host and HyperVisor upgades
+        - Moving locations
+      plan: Migrations
+      price: 100-200/hour
+    - description: Moderinizations are highly customizable and thus have a broad price
+        range, primarly driven by how many systems, policies and procedures are
+        touched at once.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - IT Documentation
+        - Process Review and Improvement
+        - Existing feature intergrations
+      plan: Modernization
+      price: Contact us
+    - plan: Consulting
+      price: TBA
+      description: Consultations are highly Client driven and are often a combination
+        of all of the above services wrapped into Initivatives such as becoming
+        complient with Insurance and Regulatory requirements, implimenting
+        patching and monitoring proceses, or securing Fractional services for
+        regular but intermitant needs
+      items:
+        - CyberSecurity Review and Remediations
+        - Patching - Monitoring - Logging and SIEM services
+        - Fractional Services - Technical Director - Information Security
 ---
-
-
