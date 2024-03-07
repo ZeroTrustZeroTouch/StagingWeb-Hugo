@@ -31,7 +31,7 @@ const HomePreview = ({ entry, collection, field }) => {
 
           <div className="tc">
             <a href="#" className="btn raise">
-              See all Services
+              See all services
             </a>
           </div>
         </div>
